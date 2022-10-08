@@ -1,0 +1,28 @@
+.container{
+  margin:50px;
+  border-style: solid;
+  padding: 10px;
+  display: block;
+  border-radius: 17px;
+  box-shadow: 0 0 5px 3px #1abc9c;
+}
+h2{
+  padding: 20px;
+  background-color: #8cfae4;
+}
+span{
+  display: inline;
+}
+#resuu{
+  display:inline;
+}
+.footer{
+  padding: 20px;
+  background-color: #8cfae4;
+  height: 100px;
+}
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
